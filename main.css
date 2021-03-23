@@ -42,3 +42,10 @@ img{
 	float: right;
 	display: inline;
 }
+
+.lynx{
+	border-collapse: auto;
+	background-color: white;
+	width: 80%;
+	height: auto;
+}
