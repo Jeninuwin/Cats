@@ -1,5 +1,6 @@
 body{
 	background-color: #fff8e7;
+	font-family: "Garamond", Sans-serif; 
 }
 
 .butt{
@@ -9,7 +10,35 @@ body{
 	margin: auto;
 
 }
+
 img{
 	width: 200px;
+	display: inline;
+}
+
+.intro{
+	background-color: white;
+	border-collapse: auto;
+	width: 50%;
+	height: auto;
+}
+
+.intro2{
+	border-collapse: auto;
+	background-color: white;
+	width: 80%;
+	height: auto;
+}
+
+.g1{
+	align-self: center;
+	width: auto;
+	height: auto;
+	border-collapse: auto;
+	background-color: lightblue;
+	border-radius: 50%;
+}
+.g2{
+	float: right;
 	display: inline;
 }
