@@ -38,14 +38,17 @@ img{
 	background-color: lightblue;
 	border-radius: 50%;
 }
-.g2{
-	float: right;
-	display: inline;
-}
 
-.lynx{
+.snow, .lynx, .black, .scott, .tiger{
 	border-collapse: auto;
 	background-color: white;
 	width: 80%;
 	height: auto;
+}
+
+.list{
+	background-color: white; 
+	border-style: solid;
+	border-radius: 30%;
+	width: 50%;
 }
