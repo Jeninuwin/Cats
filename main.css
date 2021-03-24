@@ -39,6 +39,11 @@ img{
 	border-radius: 50%;
 }
 
+.g2{
+	width: 45%;
+	height: auto;
+}
+
 
 .snow, .lynx, .black, .scott, .tiger{
 	border-collapse: auto;
