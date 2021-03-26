@@ -1,13 +1,16 @@
 body{
 	background-color: #fff8e7;
 	font-family: "Garamond", Sans-serif; 
-}
-
-.butt{
-	background-color: white;
-	text-align: center;
 	margin: auto;
-	letter-spacing: 30px;
+}
+button{
+	float: right;
+}
+.butt{
+	border-style: hidden;
+	background-color: white;
+	height: 0 auto;
+	text-align: center;
 }
 
 .intro{
