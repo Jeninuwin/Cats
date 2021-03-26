@@ -5,15 +5,9 @@ body{
 
 .butt{
 	background-color: white;
-	height: 60px;
 	text-align: center;
 	margin: auto;
-
-}
-
-img{
-	width: 200px;
-	display: inline;
+	letter-spacing: 30px;
 }
 
 .intro{
@@ -45,7 +39,7 @@ img{
 }
 
 
-.snow, .lynx, .black, .scott, .tiger{
+.lynx{
 	border-collapse: auto;
 	background-color: white;
 	width: 80%;
